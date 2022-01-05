@@ -2,6 +2,7 @@
     position: relative;
     left: 20px;
     margin-bottom: 10px;
+    font-family: 'Roboto';
 }
 
 .menu__item {
@@ -11,8 +12,10 @@
     margin-right: 15px;  
 }
 
-.menu__item:last-of-type {
-    margin-right: 0;
+.menu__button {
+  background-color: rgba(0,0,0,0);
+  border: none;
+  margin-right: 0;
 }
 
 .menu__item_active {

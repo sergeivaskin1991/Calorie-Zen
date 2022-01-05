@@ -1,10 +1,10 @@
 @font-face {
-  src: url(../fonts/roboto.woff) format('woff');
+  src: url(../../fonts/roboto.woff) format('woff');
   font-family: 'Roboto';
 }
 
 @font-face {
-  src: url(../fonts/sumana.woff) format('woff');
+  src: url(../../fonts/sumana.woff) format('woff');
   font-family: 'Sumana';
 }
 
@@ -30,6 +30,7 @@
   font-size: 18px;
   line-height: 1.2;
   margin-top: 25px;
+  margin-left: -20px;
 }
 
 .calories__list {
@@ -43,3 +44,5 @@
   font-weight: bold;
   margin-top: 36px;
 }
+
+
